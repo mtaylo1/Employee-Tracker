@@ -16,7 +16,7 @@ VALUES
 ("HR Manager", 10000, 3), 
 ("HR Generalist", 55000, 3), 
 ("Lead Developer", 120000, 3), 
-("Junior Developer", 85000, 3),
+("HR Generalist", 55000, 3),
 ("Senior Marketing Manager", 250000, 5), 
 ("Marketing Associate", 70000, 5);
 

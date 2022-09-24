@@ -23,4 +23,5 @@
    This can be installed by downloading into a zip and extracting the files on your computer.
    ## Contact Information: 
    -Github: mtaylo1 (https://github.com/mtaylo1)
+   -Video: https://drive.google.com/file/d/1pGNwKSSNuf2-qC9-R_Y_kc82gH4vu9p6/view 
    

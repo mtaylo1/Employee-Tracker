@@ -8,7 +8,7 @@ const app = express();
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
-// Default response for any other request (Not found)
+// Default response for any other request (that is 'Not found')
 app.use((req, res) => {
   res.status(404).end();
 });
